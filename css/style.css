@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Roboto', sans-serif;
+    color: #EEEEEE;
+    
+}
+
+body {
+	background: #222831;  
+}
+
+.texto {
+    margin: 180px 369px 1px ;
+    font-size: 70px;
+}
+
+.textobaixo {
+    position: absolute;
+    margin: 0px 330px 0px;
+    font-size: 30px;  
+}
+
+
+
+.icon {
+    margin: 50px 500px ;
+    display: flex;
+}
+
+.icon i{
+    font-size: 35px;
+    width: 200px;
+}
